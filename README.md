@@ -2,3 +2,5 @@
 ##test2
 ####test3
 **this is bold**
+~~mistake~~
+>lorem ipsum
