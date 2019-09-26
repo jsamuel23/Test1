@@ -9,4 +9,4 @@
 - test3
 - [x] test1
 - [x] test2
-- [] test3
+- [ ] test3
